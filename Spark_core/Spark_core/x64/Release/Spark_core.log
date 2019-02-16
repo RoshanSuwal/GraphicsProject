@@ -1,0 +1,24 @@
+﻿  indexBuffer.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\indexbuffer.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  shader.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\shader.h(5): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  buffer.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\buffer.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  sprite.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\buffer.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  static_spritecpp.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\buffer.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  vertexArray.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\vertexarray.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Windows.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\windows.h(4): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+e:\projects\game engine\spark\spark_core\spark_core\graphics\windows.h(4): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  mat4.cpp
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  batchrenderer2D.cpp
+e:\projects\game engine\spark\spark_core\spark_core\renderer\renderer2d.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  simple2Drenderer.cpp
+e:\projects\game engine\spark\spark_core\spark_core\renderer\renderer2d.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory

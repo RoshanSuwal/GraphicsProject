@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  e:\graphics projects\spark\spark_core\dependencies\glfw\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(100): warning C4018: '<': signed/unsigned mismatch
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(102): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(103): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\algorithm\circle.h(113): warning C4018: '<': signed/unsigned mismatch
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(54): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(94): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(103): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(111): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(135): warning C4018: '<': signed/unsigned mismatch
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(136): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(139): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(144): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\algorithm\lineh.h(147): warning C4018: '<': signed/unsigned mismatch
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(93): warning C4305: '+=': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(94): warning C4305: '+=': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(107): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(108): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(114): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(115): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(116): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(117): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(118): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(119): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(121): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(161): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\graphics projects\spark\spark_core\spark_core\main.cpp(209): warning C4018: '<': signed/unsigned mismatch
+  Spark_core.vcxproj -> E:\Graphics Projects\Spark\Spark_core\\bin\debug\Spark_core.exe
